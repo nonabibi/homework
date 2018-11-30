@@ -1,0 +1,150 @@
+/* ჰედეის დასაწყისი */
+.logo{
+	width: 100px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+
+.navigation-ul{
+    margin-left:30px;
+}
+
+.navigation-a{
+	display: inline-block;
+	padding-top: 7.5px;
+	padding-bottom: 7.5px;
+	text-decoration: none;
+	font-size: 22px;
+	font-family: "nino_mtavruli_bold", sans-serif;
+	color: #3D58A6;
+	/*color: rgb(61,88,166);*/
+}
+.navigation-a:hover{
+	color: #EE4036;
+}
+ /* ჰედეის დასსარული */
+.banner{
+	margin-left: 30px;
+	margin-top: 22.5px;
+}
+/* footer დასაწყისი */
+.footer{
+	margin-left: 30px;
+	padding-top: 30px;
+    padding-bottom: 30px;
+}
+.fb{
+	height: 30px;
+}
+.youtube{
+	height: 30px;
+}
+.social-list{
+	display: inline-block;
+	margin-right: 35px; 
+}
+.line{
+	width: 1px;
+	height: 30px;
+	background-color: #3D58A6;
+}
+/* footer დასსრული */
+/* კონტაქტის გვერდის დასაწყისი */
+.contact-section{
+	width: 300px;
+	display: block;
+	/*margin: 0 auto;*/
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.contact-list{
+	text-align: center;
+}
+.heading{
+	text-align: center;
+	font-family: "nino_mtavruli_bold";
+	font-size: 20px;
+	color: #3D58A6;
+}
+.left-side,
+.right-side{
+	font-family: "bpg_ingiri_arial";
+	font-size: 16px;
+}
+.left-side{
+	color: #808080;
+}
+/* კონტაქტის გვერდი დასასრული */
+/*სიახლეების გვერდი დასაწყისი*/
+
+.calendar27 {    
+	width: 56px;
+    height: 56px;
+    margin-left: 30px;
+    margin-top: 35.5px;
+}
+.maisi {
+	margin-left: 30px;
+	color: #3D58A6;
+	font-family: "nino_mtavruli_bold", sans-serif;
+	margin-top: 6px;
+	font-size: 16pt;
+}
+.title {
+	margin-left: 30px;
+	color: #000000;
+	font-family: "nino_mtavruli_bold", sans-serif;
+	margin-top: 27px;
+	font-size: 20pt;
+}
+.face { 
+	width: 270px;
+    margin-left: 30px;
+    margin-top: 23px;
+}
+.paragraph1 {
+	margin-top: 23px;
+	margin-left: 30px;
+	font-family: 'bpg_ingiri_arial' sans-serif;
+	font-size: 16pt;
+	margin-right: 190px;
+}
+.paragraph2 {
+	margin-left: 30px;
+	margin-top: 23px;
+	font-size: 16pt;
+	font-family: 'bpg_ingiri_arial' sans-serif;
+	margin-right: 190px;
+}
+.paragraph3 {
+	margin-left: 30px;
+	margin-top: 23px;
+	font-size: 16pt;
+	font-family: 'bpg_ingiri_arial' sans-serif;
+	margin-right: 190px;
+}
+.calendar28 {
+	width: 56px;
+    height: 56px;
+    margin-left: 30px;
+    margin-top: 35.5px;
+}
+.banner2 {
+	width: 270px;
+	margin-left: 30px;
+	margin-top: 23px;
+}
+.calendar29 {
+	width: 56px;
+    height: 56px;
+    margin-left: 30px;
+    margin-top: 35.5px;
+}
+.text {
+	width: 270px;
+	margin-left: 30px;
+	margin-top: 23px;
+}
